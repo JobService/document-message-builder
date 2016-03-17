@@ -6,7 +6,7 @@ import java.util.Map;
  */
 public interface DocumentMessageBuilder {
     /**
-     * Constructs a specific type of task message using the taskMessageParams passed in for use by BatchWorkerServices.
+     * Constructs a task message.
      *
      * @param documentServices DocumentServices implementation providing access onto necessary document concepts for task.
      * @param taskMessageParams Task message parameters for use in constructing a specific task implementation.
