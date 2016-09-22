@@ -17,6 +17,6 @@
 
     <ciManagement>
         <system>hudson</system>
-        <url>http://cafbuilder.hpswlabs.hp.com:8080/job/document-message-builder/</url>
+        <url>http://cafbuilder.hpeswlab.net:8080/job/document-message-builder/</url>
     </ciManagement>
 </project>
