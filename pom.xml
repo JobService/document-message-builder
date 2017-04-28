@@ -23,7 +23,7 @@
     
     <name>Document Message Builder</name>
     <description>An interface for simple task object representation</description>
-    <url>https://github.com/JobService/document-message-builder</url>
+    <url>https://jobservice.github.io/job-service/</url>
 
     <parent>
         <groupId>com.github.cafapi</groupId>
