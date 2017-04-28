@@ -75,8 +75,8 @@
     </developers>
 
     <scm>
-        <connection>scm:git:https://github.com/JobService/job-service.git</connection>
-        <developerConnection>scm:git:https://github.com/JobService/job-service.git</developerConnection>
-        <url>https://github.com/JobService/job-service.git</url>
+        <connection>scm:git:https://github.com/JobService/document-message-builder.git</connection>
+        <developerConnection>scm:git:https://github.com/JobService/document-message-builder.git</developerConnection>
+        <url>https://github.com/JobService/document-message-builder.git</url>
     </scm>
 </project>
