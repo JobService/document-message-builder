@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.hpe.caf.messagebuilder;
+package com.github.jobservice.messagebuilder;
 
 /**
  * A stripped down version of the CAF task message holding the minimal amount of information required to represent a built task message.
